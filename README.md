@@ -67,7 +67,6 @@ Map Visual: Bing Map / Azure Maps
 📂 Files in Repository
 📁 Road_Accident_Analysis/
 
-│
 ├── power.pbix      # Power BI dashboard file
 
 ├── Road Accident Data.csv                         # Cleaned dataset (if included)
