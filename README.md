@@ -1,5 +1,5 @@
 🛣️ Road Accident Analysis Dashboard
-📊 Overview
+
 
 The Road Accident Analysis Dashboard provides an interactive Power BI visualization of road safety data, focusing on casualties and accidents across the United Kingdom. It helps stakeholders, policymakers, and data analysts understand key trends in road accidents, identify high-risk areas, and analyze the impact by vehicle type, road type, and location.
 
@@ -67,12 +67,11 @@ Map Visual: Bing Map / Azure Maps
 📂 Files in Repository
 📁 Road_Accident_Analysis/
 │
-├── Road_Accident_Analysis.pbix      # Power BI dashboard file
-├── Data.csv                         # Cleaned dataset (if included)
+├── power.pbix      # Power BI dashboard file
+├── Road Accident Data.csv                         # Cleaned dataset (if included)
 ├── README.md                        # Documentation (this file)
-└── Screenshots/
-    ├── dashboard_overview.png
-    └── casualty_trend.png
+└──road.png
+   
 
 🚦 How to Use
 
@@ -94,10 +93,4 @@ Include weather and traffic correlation analysis.
 
 Deploy Power BI Service dashboard with auto-refresh.
 
-👩‍💻 Author
 
-Puspita Chowdhury
-📚 MSc Artificial Intelligence & Data — Yeshiva University
-🔗 LinkedIn
- | GitHub
- | Medium
